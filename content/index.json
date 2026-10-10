@@ -35,6 +35,28 @@
         "appearance",
         "gameplay"
       ]
+    },
+    {
+      "id": "world-sonfa",
+      "type": "world",
+      "path": "content/worlds/sonfa.md",
+      "revision": "0.1",
+      "production_status": "draft",
+      "known_claims": {
+        "themes": [
+          "مهارت",
+          "ذکاوت",
+          "بقا",
+          "تاریکی",
+          "مرگ"
+        ],
+        "focus": "شخصیت‌های استثنایی و رشد پیوند شخصیت و قدرت"
+      },
+      "open_questions": [
+        "survival_of_survival",
+        "higher_force",
+        "selection_criteria"
+      ]
     }
   ]
 }

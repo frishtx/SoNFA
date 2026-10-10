@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1",
+  "entities": [
+    {
+      "id": "chr-richie-town",
+      "type": "character",
+      "path": "content/characters/richie-town.md",
+      "revision": "0.1",
+      "production_status": "draft",
+      "known_claims": {
+        "introduced_name": "Richie Town",
+        "epithet": "King of Streets"
+      },
+      "open_questions": [
+        "origin_of_epithet",
+        "motivation",
+        "appearance",
+        "gameplay"
+      ]
+    },
+    {
+      "id": "chr-most-wanted",
+      "type": "character",
+      "path": "content/characters/most-wanted.md",
+      "revision": "0.1",
+      "production_status": "draft",
+      "known_claims": {
+        "introduced_name": "Most Wanted",
+        "epithet": "The Genocider"
+      },
+      "open_questions": [
+        "meaning_of_introduced_name",
+        "epithet_narrator",
+        "history",
+        "appearance",
+        "gameplay"
+      ]
+    }
+  ]
+}

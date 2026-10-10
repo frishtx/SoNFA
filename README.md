@@ -17,3 +17,7 @@ See [game direction](docs/GAME-DIRECTION.md), [plan](docs/PLAN.md), [status](doc
 Repository: `frishtx/SoNFA`, public by user approval. The full game title is retained here; GitHub repository names do not use spaces.
 
 No open-source license is assigned by this bootstrap. External asset provenance and usage permissions must be tracked before distribution.
+
+## World and production workspace
+
+Start with [the studio architecture](docs/studio/README.md), [session plan](docs/studio/SESSION.md), and [content registry](content/README.md). These are planning documents and templates, not shipped game or platform features.

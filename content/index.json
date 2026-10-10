@@ -5,14 +5,19 @@
       "id": "chr-richie-town",
       "type": "character",
       "path": "content/characters/richie-town.md",
-      "revision": "0.1",
+      "revision": "0.2",
       "production_status": "draft",
       "known_claims": {
         "introduced_name": "Richie Town",
-        "epithet": "King of Streets"
+        "epithet": "King of Streets",
+        "power": "Death Hand",
+        "named_move": "Death Hand — Slap Explode",
+        "epithet_origin": "مرگ رئیس مافیای شهر با Slap Explode"
       },
       "open_questions": [
-        "origin_of_epithet",
+        "intent_and_control_during_killing",
+        "power_limits",
+        "hunters_motives",
         "motivation",
         "appearance",
         "gameplay"
